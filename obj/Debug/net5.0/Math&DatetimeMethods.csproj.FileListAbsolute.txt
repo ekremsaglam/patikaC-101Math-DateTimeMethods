@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\bin\Debug\net5.0\Math&DatetimeMethods.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\bin\Debug\net5.0\Math&DatetimeMethods.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\bin\Debug\net5.0\Math&DatetimeMethods.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\bin\Debug\net5.0\Math&DatetimeMethods.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\bin\Debug\net5.0\Math&DatetimeMethods.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\bin\Debug\net5.0\ref\Math&DatetimeMethods.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\bin\Debug\net5.0\Math&DatetimeMethods.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\obj\Debug\net5.0\Math&DatetimeMethods.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\obj\Debug\net5.0\Math&DatetimeMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\obj\Debug\net5.0\Math&DatetimeMethods.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\obj\Debug\net5.0\Math&DatetimeMethods.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\obj\Debug\net5.0\Math&DatetimeMethods.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\obj\Debug\net5.0\Math&DatetimeMethods.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\obj\Debug\net5.0\ref\Math&DatetimeMethods.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\obj\Debug\net5.0\Math&DatetimeMethods.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\Math&DatetimeMethods\obj\Debug\net5.0\Math&DatetimeMethods.genruntimeconfig.cache
